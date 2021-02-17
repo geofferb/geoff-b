@@ -1,6 +1,6 @@
 # Hello There
 
-I have no idea what I'm doing with this repository right now, but I can host stuff so thats pretty cool.
+CS student interested in open source.
 
 
 <!--
