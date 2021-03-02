@@ -1,4 +1,4 @@
-# Hello There
+# Hello there!
 
 CS student interested in open source.
 
