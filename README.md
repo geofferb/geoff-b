@@ -2,7 +2,7 @@
 
 CS student interested in open source.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=geoff-b&show_icons=true&theme=prussian&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=geoff-b&show_icons=true&theme=github_dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **geoff-B/geoff-B** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
