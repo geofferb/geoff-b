@@ -17,9 +17,6 @@ Did my CS undergraduate at the University of Alberta. Interested in open source 
 <a href="https://www.vuejs.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg" alt="vuejs" height="40" title="Vue JS"/></a>
 <a href="https://getbootstrap.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" alt="bootstrap" height="40" title="Bootstrap"/></a>
 <a href="https://flask.palletsprojects.com" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" /></a>
-          
-### Testing ###
-<a href="https://www.selenium.dev" target="_blank"><img src="https://raw.githubusercontent.com/wrrnlim/wrrnlim/main/icons/selenium.svg" alt="selenium" height="40" title="Selenium"/></a>
 
 ### Services/Tools ###
 <a href="https://www.github.com/" target="_blank"><img src="https://simpleicons.org/icons/github.svg" alt="github" height="40" title="GitHub"/></a>
