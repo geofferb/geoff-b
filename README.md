@@ -1,4 +1,3 @@
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css"> 
 # Hello there!
 
 Did my CS undergraduate at the University of Alberta. Interested in open source projects and games.
