@@ -1,7 +1,5 @@
 # Hello there!
 
-Did my CS undergraduate at the University of Alberta. Interested in open source projects and games.
-
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=geofferb&show_icons=true&theme=github_dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Languages ###
